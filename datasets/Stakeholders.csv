@@ -1,0 +1,155 @@
+Stakeholder_ID,Organization,Stakeholder_Type,Role,District,Contact
+1,Cobb-Fleming,NGO,Implementation,North District,icollier@example.com
+2,Roy-Ibarra,Government,Oversight,North District,patriciasimpson@example.org
+3,"Williams, Wood and Nielsen",Community,Oversight,North District,richardsonblake@example.com
+4,Valdez-Gregory,Corporate,Awareness,East District,jared36@example.net
+5,"Hutchinson, Griffin and Solis",Community,Funding,Central District,hernandezdenise@example.net
+6,Daniel-Baker,Community,Implementation,East District,christinacortez@example.com
+7,Anderson Inc,Corporate,Implementation,Highlands,sharoneverett@example.com
+8,Powell-Scott,Community,Oversight,South District,ldunn@example.net
+9,"Riggs, Fitzpatrick and Brooks",Corporate,Implementation,Valley,linda43@example.org
+10,Wilson-Green,NGO,Implementation,Highlands,elizabethgaines@example.com
+11,"Mcmahon, Lee and Rodriguez",NGO,Implementation,Central District,maria19@example.com
+12,"Hernandez, Mack and Lowe",NGO,Oversight,South District,jonathancantu@example.com
+13,Carey-Macias,NGO,Funding,North District,schultzjerry@example.net
+14,Garner Ltd,Corporate,Funding,South District,vhayes@example.org
+15,Aguirre-Bailey,Community,Oversight,East District,darin67@example.com
+16,Diaz-Thompson,Community,Oversight,North District,elizabeth54@example.net
+17,Bright Ltd,NGO,Awareness,South District,yadams@example.com
+18,Williamson-Mueller,Community,Funding,West District,james63@example.com
+19,Griffith-Sims,Corporate,Oversight,West District,nbooth@example.com
+20,Parker LLC,NGO,Implementation,North District,tsavage@example.com
+21,Martin Group,Government,Awareness,Highlands,christopher39@example.com
+22,"West, Strong and Vega",NGO,Implementation,South District,justin74@example.org
+23,"Collins, Gonzalez and Sanders",Corporate,Funding,Highlands,rmaxwell@example.org
+24,Meadows and Sons,Corporate,Oversight,Valley,samuelfriedman@example.org
+25,"Arroyo, Carson and Roberts",NGO,Oversight,Highlands,robertparrish@example.net
+26,Martin-Jones,Corporate,Awareness,Valley,rebeccaschmidt@example.org
+27,"Cline, Anderson and Jones",Community,Awareness,Highlands,tmosley@example.com
+28,Coleman-Nelson,Government,Implementation,Valley,harrisonjason@example.com
+29,Harris-Ball,Corporate,Awareness,South District,lesliejackson@example.org
+30,Stuart PLC,Corporate,Implementation,Valley,brian36@example.com
+31,Bass Group,Corporate,Implementation,North District,adrienne75@example.com
+32,Spencer Group,NGO,Awareness,Central District,jacob32@example.org
+33,Gardner LLC,Corporate,Implementation,Central District,madisontrevino@example.net
+34,"Moore, Figueroa and Acosta",Corporate,Implementation,Valley,gmills@example.net
+35,"Newman, Ford and Randolph",Community,Implementation,Highlands,kelseycarter@example.org
+36,"Paul, House and Anthony",NGO,Awareness,Central District,uroman@example.com
+37,"Juarez, Hanson and Wright",Community,Oversight,West District,levinecourtney@example.org
+38,Lynn-Richardson,Corporate,Oversight,North District,cynthialawson@example.com
+39,Burke-Salinas,Community,Funding,Central District,pflynn@example.net
+40,Gilbert LLC,Government,Awareness,North District,jaclyn32@example.com
+41,Miles LLC,Corporate,Awareness,South District,jamesramirez@example.org
+42,Andrews-Barton,Corporate,Funding,North District,campbellphillip@example.com
+43,Zuniga-Jones,NGO,Awareness,Valley,wtaylor@example.net
+44,Hayes LLC,Community,Oversight,North District,melissa00@example.org
+45,Martinez Group,NGO,Awareness,East District,tonyaavery@example.com
+46,Hudson and Sons,NGO,Awareness,Valley,williamoconnell@example.org
+47,Perry-Leon,NGO,Funding,West District,daniel99@example.com
+48,Miller-Cannon,Corporate,Funding,East District,rmcpherson@example.net
+49,Richards PLC,Corporate,Implementation,Highlands,brownpatricia@example.net
+50,"Deleon, Arellano and Turner",Community,Funding,Highlands,ilewis@example.com
+51,"Moore, Shelton and Carter",NGO,Awareness,East District,aherrera@example.net
+52,Shaffer-Lane,Community,Oversight,North District,nsteele@example.org
+53,"Gibson, Stevenson and Russo",Corporate,Awareness,Valley,angela76@example.com
+54,Valdez Group,Government,Oversight,Valley,wmaldonado@example.com
+55,"Hill, Brennan and Hodge",Corporate,Oversight,North District,jonesstephen@example.org
+56,Ortiz-Gaines,NGO,Funding,West District,jkelly@example.net
+57,"Lester, Johnson and Garcia",NGO,Funding,Highlands,clarkedward@example.net
+58,Khan-Alexander,Government,Oversight,North District,lhammond@example.com
+59,Montoya-Caldwell,Corporate,Funding,West District,saraballard@example.net
+60,Jones Inc,Community,Funding,East District,erin88@example.org
+61,"Norman, Weiss and Turner",Community,Awareness,Central District,jasonwilson@example.com
+62,"Roberts, Reyes and Roberson",Government,Oversight,Highlands,john24@example.net
+63,Brown LLC,NGO,Implementation,West District,wstone@example.org
+64,"Nelson, Bailey and Holmes",NGO,Oversight,Valley,awright@example.org
+65,Nelson-Page,Government,Funding,East District,emily72@example.com
+66,"Byrd, Lopez and Levy",Government,Funding,Central District,kgutierrez@example.org
+67,"Cobb, Flowers and Chapman",Corporate,Oversight,East District,anthony90@example.org
+68,Jenkins-Mcdonald,Community,Oversight,Valley,thomas63@example.net
+69,Rogers PLC,Government,Awareness,North District,vgoodman@example.org
+70,Riley-Jackson,Corporate,Oversight,Central District,jeff16@example.com
+71,Alexander-Burch,Community,Funding,East District,lidanielle@example.org
+72,Ortiz-Brown,NGO,Funding,East District,charles96@example.net
+73,"Gonzalez, Warren and Williams",Community,Implementation,West District,jamie79@example.net
+74,Johnson Inc,Corporate,Awareness,Central District,patrickacosta@example.com
+75,"Reynolds, Sanchez and Duke",Corporate,Oversight,Highlands,martinbriana@example.com
+76,Turner PLC,Community,Funding,South District,yyoung@example.com
+77,"Gates, Norris and Phelps",NGO,Funding,Central District,alexa82@example.org
+78,"Goodman, Christensen and Hays",Corporate,Awareness,East District,mwhite@example.com
+79,"Brown, Martinez and Willis",NGO,Awareness,Central District,barnesrodney@example.net
+80,"Cruz, Smith and Bryant",Government,Implementation,Central District,william51@example.org
+81,Yates Ltd,Corporate,Funding,Valley,sarahjohnson@example.net
+82,"Houston, Ayala and Harvey",NGO,Funding,Valley,erinharvey@example.net
+83,"Mcmahon, Harris and Dougherty",NGO,Implementation,Highlands,bdiaz@example.net
+84,Taylor-Gregory,Corporate,Awareness,South District,mooreelizabeth@example.org
+85,"Figueroa, Mcguire and Sandoval",NGO,Implementation,Valley,keith30@example.net
+86,Gordon Inc,Corporate,Awareness,West District,justin06@example.net
+87,Johnson Ltd,Corporate,Awareness,Highlands,kellyleonard@example.com
+88,Clark and Sons,Corporate,Implementation,Valley,linda98@example.org
+89,Martinez Group,Community,Awareness,West District,rosemerritt@example.org
+90,Alvarez PLC,Corporate,Funding,South District,josephwillis@example.net
+91,Taylor Ltd,Community,Awareness,Highlands,kenneth07@example.com
+92,Hicks-Ewing,NGO,Oversight,East District,hesterlauren@example.org
+93,"Johnson, Hunter and Johnson",Corporate,Funding,Valley,jonathon19@example.net
+94,"Shelton, Burns and Mason",Government,Funding,West District,christian87@example.org
+95,Lee-Logan,Government,Awareness,East District,elizabethgray@example.org
+96,"Vance, Hall and Kelley",Community,Awareness,Highlands,wlove@example.com
+97,"Bell, Torres and Delgado",Government,Awareness,Central District,elivingston@example.com
+98,Armstrong Group,NGO,Implementation,East District,vanessa80@example.net
+99,Brock-Johnson,NGO,Oversight,West District,acook@example.net
+100,"Schmidt, Atkinson and Baird",Corporate,Funding,West District,nelsonmelissa@example.net
+101,Harrison-Harris,NGO,Funding,South District,meaganlawson@example.net
+102,Ramsey-Hansen,Government,Awareness,North District,ericksonbrandon@example.org
+103,"Perry, May and Fields",Community,Oversight,Valley,dhawkins@example.net
+104,Mendez Group,NGO,Awareness,North District,fisherdavid@example.com
+105,"Collier, Adams and Caldwell",Corporate,Awareness,West District,xcruz@example.org
+106,James-Davis,Government,Awareness,Highlands,sharonhoward@example.org
+107,"Johnson, Edwards and Oliver",Community,Oversight,West District,derrickstephens@example.net
+108,Stanley-Gomez,Corporate,Oversight,South District,carlosgilbert@example.net
+109,"Elliott, Graves and Jones",NGO,Implementation,North District,alfredgarcia@example.net
+110,"Wilson, Garcia and Mosley",Government,Awareness,Highlands,zpowers@example.com
+111,Richard-Thompson,Corporate,Awareness,North District,williamthomas@example.org
+112,"Tucker, Lynch and Zimmerman",Community,Awareness,Valley,mario00@example.com
+113,Whitaker Inc,Community,Funding,Central District,daniel43@example.org
+114,Johnson-Brown,Government,Funding,North District,traviskelly@example.org
+115,Wilson-Garcia,Corporate,Oversight,Valley,barkerkyle@example.com
+116,"Wallace, Armstrong and Davis",Corporate,Implementation,Highlands,rjones@example.com
+117,"Wiley, Rhodes and Trujillo",NGO,Implementation,Valley,crystal01@example.com
+118,Calhoun LLC,NGO,Oversight,West District,dwoods@example.org
+119,"Sandoval, Cisneros and Escobar",Community,Awareness,Central District,gavingriffin@example.org
+120,Cannon-Moore,Government,Funding,South District,shannon38@example.org
+121,"Allen, Boyd and Ross",NGO,Funding,East District,oluna@example.org
+122,Taylor Inc,NGO,Implementation,Highlands,sanchezamber@example.com
+123,Kennedy and Sons,NGO,Oversight,North District,ocampbell@example.org
+124,Hernandez LLC,NGO,Implementation,Highlands,sampsonjason@example.net
+125,"Higgins, Jones and Dixon",Corporate,Oversight,South District,sanchezanthony@example.com
+126,Richard and Sons,Government,Awareness,East District,osborneemily@example.com
+127,Sanders-Hall,NGO,Oversight,Highlands,wilsoncrystal@example.net
+128,Hardin-Vega,NGO,Funding,Valley,zgraham@example.org
+129,Weaver Ltd,Corporate,Oversight,Highlands,naguilar@example.com
+130,Roberts-Willis,Community,Implementation,South District,wscott@example.com
+131,Smith LLC,NGO,Oversight,Central District,jerome48@example.net
+132,Phillips LLC,Community,Awareness,West District,rortiz@example.net
+133,"Moss, Gibson and Walls",NGO,Funding,North District,ruizbrandon@example.net
+134,Rivera-Lee,Government,Oversight,East District,barrettjohn@example.net
+135,Flores Group,Community,Funding,Valley,mkramer@example.com
+136,Oconnor LLC,Corporate,Awareness,Central District,sheilaharvey@example.net
+137,Bennett Inc,Community,Funding,East District,daviddiaz@example.org
+138,"Owens, Higgins and Dodson",Corporate,Oversight,North District,jessica14@example.com
+139,"Dunlap, Gonzales and Thompson",Community,Funding,Highlands,cliffordsanchez@example.org
+140,Davis-Miller,Government,Awareness,Highlands,joseph96@example.com
+141,"Mclean, Case and Ingram",NGO,Awareness,East District,fwalker@example.com
+142,Carr-Miller,Community,Implementation,East District,uhowell@example.com
+143,"Keith, Howard and Henry",Corporate,Awareness,South District,scotthernandez@example.net
+144,Thomas Ltd,Government,Oversight,West District,zimmermanjulia@example.org
+145,Cooper-Green,Community,Awareness,Central District,mstephens@example.net
+146,Brown Group,Community,Implementation,Central District,dianehart@example.com
+147,"Gregory, Perkins and Johnston",Community,Funding,North District,xstanley@example.org
+148,"Martinez, Collins and Boyd",Community,Oversight,East District,andersoncarlos@example.net
+149,"Watkins, Gilmore and Banks",Community,Oversight,Central District,harperjose@example.com
+150,"Zamora, Munoz and Owen",Corporate,Oversight,Central District,villegasphillip@example.com
+151,Vazquez LLC,Community,Oversight,Highlands,travispalmer@example.org
+152,"Shepherd, Nguyen and Williams",Corporate,Implementation,East District,bakermike@example.org
+153,Coleman-Holder,Government,Implementation,South District,ojones@example.net
+154,Davis Ltd,Community,Implementation,Central District,chandlerpatricia@example.org
