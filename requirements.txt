@@ -2,3 +2,14 @@ google-genai>=0.1.2
 fastapi
 uvicorn
 pandas
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+python-multipart
+passlib[bcrypt]
+python-jose[cryptography]
+pandas
+google-genai
+email-validator
